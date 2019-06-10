@@ -1,0 +1,1 @@
+# news_paper_wp_theme
